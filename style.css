@@ -6,6 +6,9 @@ body {
     justify-content: center;
     align-items: center;
 }
+.texto-grande {
+    font-size: 50px;
+}
 h1 {
     text-align: center;
     color: #1d1d1d;
@@ -17,10 +20,9 @@ title{
 .news {
     margin: 20px;
     padding: 20px;
-    border: 2px solid #8B4513;
+    border: 2px solid #535353;
     border-radius: 10px;
-    background-color: #FFF5EE;
 }
 .news h2, .news p {
-    color: #8B4513;
+    color: #535353;
 }
