@@ -1,5 +1,18 @@
 body {
-
-font-family: ;
-
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #F5DEB3;
+}
+h1 {
+    text-align: center;
+    color: #8B4513;
+}
+.news {
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid #8B4513;
+    border-radius: 10px;
+    background-color: #FFF5EE;
+}
+.news h2, .news p {
+    color: #8B4513;
 }
